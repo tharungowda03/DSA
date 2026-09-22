@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tharungowda03/DSA/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/tharungowda03/DSA/tree/master/0541-reverse-string-ii) |
+## String
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/tharungowda03/DSA/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
