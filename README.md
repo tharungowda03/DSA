@@ -20,9 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tharungowda03/DSA/tree/master/0088-merge-sorted-array) |
 | [0541-reverse-string-ii](https://github.com/tharungowda03/DSA/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/tharungowda03/DSA/tree/master/0541-reverse-string-ii) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/tharungowda03/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/tharungowda03/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
