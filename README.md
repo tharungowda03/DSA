@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/tharungowda03/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/tharungowda03/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tharungowda03/DSA/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/tharungowda03/DSA/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/tharungowda03/DSA/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tharungowda03/DSA/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tharungowda03/DSA/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tharungowda03/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
