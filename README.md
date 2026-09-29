@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tharungowda03/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharungowda03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tharungowda03/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tharungowda03/DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/tharungowda03/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tharungowda03/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharungowda03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/tharungowda03/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/tharungowda03/DSA/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tharungowda03/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
