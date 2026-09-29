@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/tharungowda03/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/tharungowda03/DSA/tree/master/0509-fibonacci-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/tharungowda03/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/tharungowda03/DSA/tree/master/0541-reverse-string-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/tharungowda03/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/tharungowda03/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tharungowda03/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/tharungowda03/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
