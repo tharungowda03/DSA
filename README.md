@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tharungowda03/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tharungowda03/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharungowda03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/tharungowda03/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tharungowda03/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tharungowda03/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/tharungowda03/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tharungowda03/DSA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/tharungowda03/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/tharungowda03/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tharungowda03/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tharungowda03/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/tharungowda03/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
